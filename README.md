@@ -23,3 +23,22 @@
 ├─┼┤  ╠═╬╣  ╟─╫╢  ╞═╪╡
 └─┴┘  ╚═╩╝  ╙─╨╜  ╘═╧╛
 ```
+
+## File/directory tree
+
+```
+this
+`-- is
+    |-- another
+    |   `-- super
+    |       `-- nested
+    |           `-- example
+    |-- some
+    |   `-- nested
+    |       |-- example
+    |       `-- other
+    |           `-- example
+    `-- yet
+        `-- another
+            `-- example
+```
