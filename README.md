@@ -23,6 +23,8 @@
 ⌘   Command / Cmd
 ⌃   Control / Ctrl
 ⎇   Alt
+↵ ⏎ Enter / Return
+⌫   Backspace
 ⊞   Windows / Win
 ```
 
