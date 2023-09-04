@@ -12,6 +12,9 @@
 ```
 ←   Left arrow
 →   Right arrow
+↑   Up arrow
+↓   Down arrow
+
 «   Laquo / left arrow
 »   Raquo / right arrow
 ```
