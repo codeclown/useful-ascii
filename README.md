@@ -4,6 +4,7 @@
 
 ```
 ×   Multiplication sign / "X" for deletion
+   Apple logo
 ```
 
 ## Arrows
@@ -13,6 +14,16 @@
 →   Right arrow
 «   Laquo / left arrow
 »   Raquo / right arrow
+```
+
+## Keys
+
+```
+⇧   Shift
+⌘   Command / Cmd
+⌃   Control / Ctrl
+⎇   Alt
+⊞   Windows / Win
 ```
 
 ## Boxes
