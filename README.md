@@ -4,6 +4,7 @@
 
 ```
 ×   Multiplication sign / "X" for deletion
+•   Dot
    Apple logo
 ```
 
