@@ -32,6 +32,13 @@
 ⊞   Windows / Win
 ```
 
+## Typography
+
+```
+“ ” Curly quotes
+‘ ’ Curly single quotes (singular example: you’ve)
+```
+
 ## Boxes
 
 ```
